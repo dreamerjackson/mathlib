@@ -1,0 +1,10 @@
+github.com/dreamerjackson/minidiv v0.0.0-20200305104752-fcd15cf402bb h1:sY+WAKeCZn8s/gGs0c7SZHhDKjU9QcZ49BBbkDRhBPY=
+github.com/dreamerjackson/minidiv v0.0.0-20200305104752-fcd15cf402bb/go.mod h1:OQoKqBphIrKsvjv9t8XeDcZrSBvMBj6BMJLw+0S4pvQ=
+github.com/dreamerjackson/mydiv v1.0.1 h1:5cKhhQtR2U5OhuUjtXP41RmaAD2yASVoMBWfXygLd2A=
+github.com/dreamerjackson/mydiv v1.0.1/go.mod h1:h70Xf3RkhKSNbUF8W3htLNJskYJSITf6AdEGK22QksQ=
+github.com/dreamerjackson/mydiv v1.0.2 h1:6w215VG0cjKgrEYmqCLvRQ2c5MDL17LwN7W8gt7IX9w=
+github.com/dreamerjackson/mydiv v1.0.2/go.mod h1:h70Xf3RkhKSNbUF8W3htLNJskYJSITf6AdEGK22QksQ=
+github.com/dreamerjackson/mydiv v1.0.3 h1:me08wlbKB52ttJvvGbqKqXf1AQ19DZc7wE8ouoqDXV0=
+github.com/dreamerjackson/mydiv v1.0.3/go.mod h1:h70Xf3RkhKSNbUF8W3htLNJskYJSITf6AdEGK22QksQ=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
